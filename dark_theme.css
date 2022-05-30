@@ -11,6 +11,11 @@ HBox, VBox, TitledPane, Accordion {
 	-fx-background-color: #383838;
 }
 
+
+#login {
+	-fx-background-color: transparent;
+}
+
 ToolBar {
 	-fx-background-color: #383838;
 }
@@ -31,6 +36,15 @@ MenuButton, MenuItem, TextField, VBox, TableView {
 
 Hyperlink {
 	-fx-text-fill: #FFFFFF;
+}
+
+#theme_switch{
+	-fx-background-radius: 30px;
+	-fx-min-width: 30px;
+	-fx-min-height: 30px;
+	-fx-max-width: 30px;
+	-fx-max-height: 30px;
+	-fx-background-color: linear-gradient(from 25% 25% to 100% 100%, gray, black);
 }
 
 TextField {
