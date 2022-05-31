@@ -1,6 +1,6 @@
 # DamSintesisPL
 PROYECTO:
-  ReaderHistory
+  L-Reader
   
 AUTORES: 
   Diego Fernández Sanz --- Pol Renalias Perez
